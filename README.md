@@ -41,9 +41,4 @@ Kaggle- https://data.world/achou/nba-draft-combine-measurements
 
 GitHub- https://gist.github.com/geshijoker/309ffc2675a6e2f77f5c473e86e3ab4a
 
-
-
-Examples
-
-
 Contributors: Ryan Scott, Dhru Patel, Kevin Rodriguez, Phillip Burton, and Donell Carter
