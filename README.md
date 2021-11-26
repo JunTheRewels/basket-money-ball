@@ -4,6 +4,15 @@ basket-money-ball
 
 Our models are machine learning models that uses data points to try and predict the success of an NBA player based on their college statistics. We created both a liner regression model as well as a classification model. The classification model aims to predict if a player will become a Hall of Famer or not based soley on their college statistics. 
 
+![1](/Resources/images/1.png)
+![2](/Resources/images/2.png)
+![3](/Resources/images/3.png)
+![4](/Resources/images/4.png)
+![5](/Resources/images/5.png)
+![6](/Resources/images/6.png)
+![7](/Resources/images/7.png)
+![8](/Resources/images/8.png)
+![9](/Resources/images/9.png)
 
 Technologies
 
