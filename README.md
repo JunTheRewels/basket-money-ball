@@ -1,6 +1,6 @@
 Project Title
 
-project2_basket-money-ball
+basket-money-ball
 
 Our models are machine learning models that uses data points to try and predict the success of an NBA player based on their college statistics. We created both a liner regression model as well as a classification model. The classification model aims to predict if a player will become a Hall of Famer or not based soley on their college statistics. 
 
